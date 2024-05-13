@@ -1,0 +1,125 @@
+body{
+    background-color: rgb(220, 193, 245);
+}
+#header{
+    justify-content: space-evenly;
+}
+#navbar{background-color:pink;
+    border-radius: 5px;
+    padding: 2%;
+    
+}
+dl{
+   text-align: ; 
+} 
+    
+ul{  
+    text-decoration: none;
+    display: inline-flex;
+    
+    
+    
+}
+
+#resume li {
+    text-align: center;
+    display: bloc;
+    list-style-type: none;
+    border: px;
+    padding: 6px;
+    margin-right: 20px;
+    border-color: aqua;
+    background-color: azure;
+    border-radius: 5px;
+    justify-content: space-evenly; 
+    
+}
+li a{
+    text-decoration: none;
+    border: 10px;
+}
+#about{
+    background-color: rgb(195, 236, 48);
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 2%;
+}
+#work{
+    padding: 20px;
+    background-color: blue;
+    margin-top: 2%;
+    border-radius: 5px;
+}
+#resume{
+    display: inline-block;
+    background-color: aqua;
+    padding-inline: 20px;
+    border-radius: 5px;
+    margin-top: 2%;
+
+}
+#contact{
+    background-color: rgb(218, 126, 221);
+    padding: 10px;
+
+}
+
+form{
+    border-style: double;
+    border-color: rgb(224, 182, 182);
+    background-col rgb(188, 213, 224);
+
+
+}
+h3{
+    text-align: cente;
+}
+footer{
+    background-color: rgb(133, 136, 127);
+    border-style: groove;
+    margin-top: 2%;
+    justify-content: space-evenly;
+    
+    
+    
+    
+}
+footer li {
+    text-align: center;
+    display: bloc;
+    list-style-type: none;
+    border: px;
+    padding: 10px;
+    margin-right: 20px;
+    background-color: azure;
+    border-radius: 5px;
+    justify-content: space-evenly; 
+    
+}
+#navbar li {
+    text-align: center;
+    list-style-type: none;
+    padding: 6px;
+    margin-right: 20px;
+    border-color: aqua;
+    background-color: azure;
+    border-radius: 5px;
+    
+    
+}
+footer ul img{
+    
+    width: 30px; 
+    
+
+    
+}
+
+img{ 
+    width: 550px;
+
+    
+}
+footer p{
+    margin-left: 35px;
+}
